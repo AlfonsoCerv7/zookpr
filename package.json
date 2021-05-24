@@ -1,0 +1,24 @@
+{
+  "name": "zookpr",
+  "version": "1.0.0",
+  "description": "Mock server involving back end node/express.js as well as a full front end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfonsoCerv7/zookpr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfonsoCerv7/zookpr/issues"
+  },
+  "homepage": "https://github.com/AlfonsoCerv7/zookpr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
